@@ -1,3 +1,16 @@
+## 6.0.3
+  - Fixed docs for missing region_code [#158](https://github.com/logstash-plugins/logstash-filter-geoip/pull/158)
+
+## 6.0.2
+  - Update of GeoLite2 DB [#157](https://github.com/logstash-plugins/logstash-filter-geoip/pull/157)
+
+## 6.0.1
+  - Fixed deeplink to Elasticsearch Reference 
+  [#151](https://github.com/logstash-plugins/logstash-filter-geoip/pull/151)
+
+## 6.0.0
+  - Removed obsolete lru_cache_size field
+
 ## 5.0.3
  - Skip lookup operation if source field contains an empty string 
  - Update of the GeoIP2 DB
